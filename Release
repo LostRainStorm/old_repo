@@ -1,0 +1,15 @@
+Origin: LostRainStorm's Repo
+
+Label: LostRainStorm's Repo
+
+Suite: stable
+
+Version: 1.0
+
+Codename: LostRainStorm
+
+Architecture: iphoneos-arm
+
+Components: main
+
+Description: LostRainStorm's Repo of Dreams
